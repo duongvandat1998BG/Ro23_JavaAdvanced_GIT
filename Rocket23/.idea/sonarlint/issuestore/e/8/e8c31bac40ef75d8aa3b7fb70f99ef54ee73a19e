@@ -1,0 +1,25 @@
+
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(áùãÇÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(şØÕ«ùÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(¸øŠòüÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(úÎ¹‡şÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(˜êâÆ
+P	java:S1253"<This block of commented-out lines of code should be removed.(º¤
+P	java:S125;"<This block of commented-out lines of code should be removed.(º¤
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(Ù²šµ
+]	java:S125D"<This block of commented-out lines of code should be removed.(â»Äûÿÿÿÿ8°Õ«„™0
+P	java:S125H"<This block of commented-out lines of code should be removed.(º¤
+W	java:S125N"<This block of commented-out lines of code should be removed.(º¤8ˆ·«„™0
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(ç‘ú¢
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Õ…“…
+O
+java:S1874Z"-Remove this use of "Query"; it is deprecated.(×¿†¿şÿÿÿÿ8¿ÒÇ„™0
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¬•Ñ–
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ß¹Ï»üÿÿÿÿ
+F
+java:S1481c"+Remove this unused "result" local variable.(·‚Öèøÿÿÿÿ
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(¦ÿë÷ÿÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ë†€òúÿÿÿÿ
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(î¨äÈùÿÿÿÿ8ß†×„™0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8İÒÇ„™0
